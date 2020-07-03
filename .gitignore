@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+poetry.lock
+pyproject.toml
+.replit
