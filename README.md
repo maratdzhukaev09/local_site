@@ -28,7 +28,7 @@ $ pip install -r requirements.txt
 
 ```bash
 $ python manage.py runserver 0.0.0.0:8000
-# используйте python3, есть конфликт с Python2
+# Используйте python3, есть конфликт с Python2
 ```
 
 Сайт будет доступен по ссылке: [127.0.0.1:8000](127.0.0.1:8000)
